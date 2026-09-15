@@ -1,8 +1,7 @@
 # Muhammad Bilal — Web Designer & AI/ML Enthusiast Portfolio
 
 A high-performance, modern dark-themed portfolio landing page built with **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
-
-🌐 **Target Deployment:** [Vercel](https://vercel.com)  
+ 
 👤 **Author:** [Muhammad Bilal](https://github.com/muhammadbilaliiui)  
 📧 **Contact:** [bilal20030315@gmail.com](mailto:bilal20030315@gmail.com)  
 📱 **Phone:** +92 331 5581529  
